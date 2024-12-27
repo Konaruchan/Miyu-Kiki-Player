@@ -25,7 +25,14 @@
 1. Ejecuta el archivo `MiyuKikiPlayer_Installer.exe`.
 2. Sigue las instrucciones del instalador para completar la instalación del juego.
 
-### Paso 4: Ejecutar el Juego
+### Paso 4: Mover Carpetas Necesarias
+
+**Nota Importante**: Después de la instalación, debes realizar el siguiente paso manualmente:
+1. Navega a la carpeta donde se ha instalado el juego (por ejemplo, `C:\Program Files (x86)\MiyuKikiPlayer\`).
+2. Dentro de esta carpeta, crea una nueva carpeta llamada `GameFiles`.
+3. Mueve las carpetas `BGM`, `Definitions` y `Shika` a la nueva carpeta `GameFiles` que acabas de crear.
+
+### Paso 5: Ejecutar el Juego
 
 1. Abre **MiyuKikiPlayer** desde el menú de inicio o el acceso directo en tu escritorio.
 2. Si tu antivirus marca el archivo como una amenaza potencial, desactiva temporalmente la protección en tiempo real del antivirus. Esto es debido a que el ejecutable es de reciente creación y no tiene un certificado digital oficial.
