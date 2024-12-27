@@ -12,7 +12,7 @@
 
 ### Paso 1: Descargar el Cliente
 
-1. Dirígete a la sección de [Releases]([https://github.com/tu_usuario/MiyuKikiPlayer](https://github.com/Konaruchan/Miyu-Kiki-Player/releases).
+1. Dirígete a la sección de [Releases](https://github.com/Konaruchan/Miyu-Kiki-Player/releases).
 2. Descarga el archivo `Miyu-kiki_Client.zip`.
 
 ### Paso 2: Descomprimir el Archivo
